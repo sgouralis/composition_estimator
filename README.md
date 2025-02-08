@@ -10,8 +10,8 @@ Once the data are imported, you click "Create MCMC chain", wait a few seconds fo
 
 The app allows for a few more options; these are mostly for code development, so most likely you can ignore them.
 
-For an introduction to the principles and methods used, see
+For an introduction to the principles and methods used, see:
 Data Modeling for the Sciences by Pressé and Sgouralis, Cambridge University Press, 2003
 https://doi.org/10.1017/9781009089555
 
-For details on the MATLAB app installer files, see https://www.mathworks.com/help/matlab/creating_guis/what-is-an-app.html
+For details on the MATLAB app installer files, see: https://www.mathworks.com/help/matlab/creating_guis/what-is-an-app.html
